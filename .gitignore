@@ -1,7 +1,9 @@
-Binaries
+.vs/
+Binaries/
+Content/StartContent/
+Intermediate/
+Saved/
 DerivedDataCache
-Intermediate
-Saved
 .vscode
 .vs
 *.VC.db
